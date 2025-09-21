@@ -35,7 +35,7 @@ Built with Next.js, TailwindCSS, and shadcn/ui, it provides a modern, responsive
 ## ⚙️ Installation & Setup
 bash              
 # Clone the repo
-git clone https://github.com/tanish0545/threatscope.git
+git clone https://github.com/tanish0545/BuildwithTanish.git
 
 # Navigate into the project
 cd threatscope
