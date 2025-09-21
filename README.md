@@ -17,7 +17,7 @@ Built with Next.js, TailwindCSS, and shadcn/ui, it provides a modern, responsive
 
 ## 🖼️ Screenshots
 ### Dashboard
-![Dashboard Screenshot](./screenshot/Screenshot 2025-09-21 230404.png)
+![Dashboard Screenshot](./screenshot/Screenshot2025-09-21230404.png)
 
 ### Analyzer
 ![Analyzer Screenshot](./screenshots/analyzer.png)
